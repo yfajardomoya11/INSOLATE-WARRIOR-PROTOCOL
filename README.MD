@@ -1,4 +1,8 @@
 # 🛡️ Insolate Warrior Protocol
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Security](https://img.shields.io/badge/Focus-Cybersecurity-red)
+![License](https://img.shields.io/badge/License-Custom-lightgrey) 
 
 **Secure Isolation & Protective Sandbox Environment**
 
@@ -54,8 +58,11 @@ This project is a symbolic simulation of defensive isolation concepts within cyb
 
 It does not perform real system-level sandboxing, network control, or active threat mitigation.
 
-Developed by **Yananth Fajardo Moya**  
-Cybersecurity Student | DevSecOps Developer
+## 👤 Author
+
+**Yananth Fajardo Moya**  
+Cybersecurity Student | DevSecOps Developer  
+Founder — Sentinel Defense Unit
 
 This project reflects conceptual practices, controlled logic design, and secure mindset modeling.
 
@@ -65,3 +72,21 @@ Not all shutdowns are failures.
 
 Some systems go offline  
 to ensure something else stays untouched.
+
+---
+
+## 🛡️ Sentinel Defense Unit Integration
+
+This protocol is part of a broader cybersecurity ecosystem focused on:
+
+- Threat containment
+- Isolation strategies
+- Defensive architecture design
+
+---
+
+## 🧬 Core Directive
+
+Protect the target.
+
+Even if the system must disappear.
