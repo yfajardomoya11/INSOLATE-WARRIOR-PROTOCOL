@@ -1,4 +1,4 @@
-# 🛡️ Insolate Warrior Protocol
+# 🛡️ Isolate Warrior Protocol
 ### *Secure Isolation & Protective Sandbox Environment*
 
 ![Status](https://img.shields.io/badge/status-active-blue)
