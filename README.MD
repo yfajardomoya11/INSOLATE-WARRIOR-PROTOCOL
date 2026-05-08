@@ -1,92 +1,139 @@
 # 🛡️ Insolate Warrior Protocol
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Security](https://img.shields.io/badge/Focus-Cybersecurity-red)
-![License](https://img.shields.io/badge/License-Custom-lightgrey) 
+### *Secure Isolation & Protective Sandbox Environment*
 
-**Secure Isolation & Protective Sandbox Environment**
+![Status](https://img.shields.io/badge/status-active-blue)
+![Security](https://img.shields.io/badge/focus-cybersecurity-red)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 ---
 
 ## 📌 Overview
 
-Insolate Warrior Protocol is a controlled isolation system designed to simulate a defensive detachment scenario.
+**Insolate Warrior Protocol** is a conceptual cybersecurity system designed to simulate **defensive isolation under critical conditions**.
 
-The system transitions a node into a fully sandboxed state in order to:
+When a node becomes a potential threat surface, the protocol enforces **total detachment**, ensuring that what matters remains protected.
 
-- Prevent external compromise
-- Redirect potential threats
-- Preserve the integrity of a protected target
+> 🧠 *Isolation is not retreat — it is strategy.*
 
 ---
 
 ## ⚙️ Core Features
 
-- Secure isolation sequence
-- Memory protection routines
-- Data encryption (Base64 layer)
-- Controlled shutdown protocol
-- Simulated threat redirection
+- 🔒 Secure isolation sequence  
+- 🧠 Memory protection routines  
+- 🔐 Data encoding layer (Base64)  
+- 🧪 Controlled sandbox environment  
+- 📴 Safe shutdown protocol  
+- 🎯 Simulated threat redirection  
 
 ---
 
 ## 🧠 Architecture Concept
 
-The protocol is based on a simple principle:
+The protocol follows a single immutable principle:
 
-> When a system becomes a potential risk,  
-> isolation is the only way to guarantee protection.
+> ⚠️ **If a system becomes a risk, it must remove itself.**
 
-Instead of maintaining active exposure,  
-the node removes itself from the environment.
+Instead of defending indefinitely, the node:
+
+- Eliminates exposure  
+- Cuts external interaction  
+- Preserves the integrity of the target  
 
 ---
 
 ## 🔐 Execution Flow
 
-1. Initialization of secure mode  
-2. Isolation of external interfaces  
-3. Encryption of sensitive data  
-4. Deployment of sandbox environment  
-5. Controlled shutdown  
+```text
+[ INIT ]
+   ↓
+[ Secure Mode Activation ]
+   ↓
+[ External Interface Isolation ]
+   ↓
+[ Sensitive Data Encoding ]
+   ↓
+[ Sandbox Deployment ]
+   ↓
+[ Controlled Shutdown ]
+```
 
 ---
 
 ## ⚠️ Disclaimer
 
-This project is a symbolic simulation of defensive isolation concepts within cybersecurity environments.
+This project is a **symbolic simulation** of cybersecurity isolation strategies.
 
-It does not perform real system-level sandboxing, network control, or active threat mitigation.
+❌ It does NOT:
+- Perform real sandboxing  
+- Control system processes  
+- Interact with networks  
+- Mitigate real threats  
 
-## 👤 Author
-
-**Yananth Fajardo Moya**  
-Cybersecurity Student | DevSecOps Developer  
-Founder — Sentinel Defense Unit
-
-This project reflects conceptual practices, controlled logic design, and secure mindset modeling.
-
-## 🛡️ Final Note
-
-Not all shutdowns are failures.
-
-Some systems go offline  
-to ensure something else stays untouched.
+✅ It DOES:
+- Represent defensive logic  
+- Model secure thinking  
+- Demonstrate conceptual architecture  
 
 ---
 
 ## 🛡️ Sentinel Defense Unit Integration
 
-This protocol is part of a broader cybersecurity ecosystem focused on:
+Part of the **Sentinel Defense Unit Ecosystem**, focused on:
 
-- Threat containment
-- Isolation strategies
-- Defensive architecture design
+- Threat containment  
+- Isolation strategies  
+- Defensive architecture design  
+- Secure mindset modeling  
 
 ---
 
 ## 🧬 Core Directive
 
-Protect the target.
+> **Protect the target.**  
+> *Even if the system must disappear.*
 
-Even if the system must disappear.
+---
+
+## 👤 Author
+
+**Yananth Fajardo Moya**  
+Cybersecurity Student | DevSecOps Developer  
+Founder — *Sentinel Defense Unit*
+
+---
+
+## 📜 MIT License
+
+```text
+MIT License
+
+Copyright (c) 2026 Yananth Fajardo Moya
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 🛡️ Final Note
+
+> Not all shutdowns are failures.  
+> Some systems go offline…  
+> so something else remains untouched.
