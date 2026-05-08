@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-**Insolate Warrior Protocol** is a conceptual cybersecurity system designed to simulate **defensive isolation under critical conditions**.
+**Isolate Warrior Protocol** is a conceptual cybersecurity system designed to simulate **defensive isolation under critical conditions**.
 
 When a node becomes a potential threat surface, the protocol enforces **total detachment**, ensuring that what matters remains protected.
 
